@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6772288
+color:
+  saturation: 0.9914657
+  lightness: 0.7768931
+  brandStrength: 0.4097744
+  brandColors:
+    - '#BCBCA4'
+    - '#5E1F5C'
+    - '#B48877'
+    - '#E9AC77'
+    - '#F9F1DA'
+  rhythmicContrast: 0.7983789
+name: taufiq
